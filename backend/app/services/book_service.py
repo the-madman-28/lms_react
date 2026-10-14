@@ -110,3 +110,4 @@ def delete_book(
 
     db.delete(book)
     db.commit()
+
