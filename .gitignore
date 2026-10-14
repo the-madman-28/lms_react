@@ -1,9 +1,0 @@
-.venv/
-__pycache__/
-*.pyc
-instance/
-*.db
-.env
-.pytest_cache/
-*.dump
-*.backup
